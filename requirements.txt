@@ -1,0 +1,3 @@
+HAP_python[QRCode]==2.2.2
+w1thermsensor==1.0.5
+pigpio==1.40.post1
