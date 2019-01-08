@@ -1,5 +1,5 @@
 # AC_PiController
-My own HomeKit implementation to remote control my A/C. With HomeKit support.
+My HomeKit implementation to remote control my A/C.
 
 ## What is this?
 As my A/C has not a scheduler function, neither a network port to control it, I decided to create this little project to have a semi-automatic use of my A/C using an IR Led and a Raspberry Pi.
